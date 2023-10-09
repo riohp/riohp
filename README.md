@@ -4,10 +4,12 @@ Hi 👋, I'm River!
 
 
 About me
--🌍 Location I'm based in Colombia  
--🎓 Education  I'm currently a student of software analysis and development. 
--💬 Ask Me About Ask me about anything, I love to answer!    
+<br/>
+-🌍 Location I'm based in Colombia  <br/>
+-🎓 Education  I'm currently a student of software analysis and development.<br/> 
+-💬 Ask Me About Ask me about anything, I love to answer!    <br/>
 -📫 Contact Me  Write me at [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com)
+<br/>
  <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 <br/>
