@@ -29,7 +29,7 @@
 <br/>
 
 
-<div align="center">
+<div align="left">
   <div style="display: inline-block; margin-left: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=#8a2be2" alt="kaustav202's top languages" />
   </div>
