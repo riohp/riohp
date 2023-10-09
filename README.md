@@ -4,12 +4,12 @@ Hi 👋, I'm River!
 
 
 About me
-    | 🌍 Location                  | 🎓 Education                                                   | 💬 Ask Me About                                        | 📫 Contact Me                                       |
-|-----------------------------|---------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|
-| I'm based in Colombia       | I'm currently a student of software analysis and development. | Ask me about anything, I love to answer!              | Write me at [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com) |
+-🌍 Location I'm based in Colombia  
+-🎓 Education  I'm currently a student of software analysis and development. 
+-💬 Ask Me About Ask me about anything, I love to answer!    
+-📫 Contact Me  Write me at [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com)
+ <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
-
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
 **MY 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
