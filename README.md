@@ -10,7 +10,7 @@ About me
 -💬 Ask Me About Ask me about anything, I love to answer!    <br/>
 -📫 Contact Me  Write me at [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com)<br/>
 
- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+ <img align="left" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 <br/>
 
