@@ -58,9 +58,9 @@ About me
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=riohp&label=Profile%20Views&color=3&icon=0&pretty=false" />
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=riohp&label=Profile%20Views&color=11&pretty=true" />
+</a>
 </div>
 
 
