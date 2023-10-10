@@ -29,6 +29,8 @@ About me
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1200px-Arduino_Logo_Registered.svg.png"></code>
 <br/>
+<br/>
+<br/>
   <div aling="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=#8a2be2" alt="kaustav202's top languages" />
   </div>
