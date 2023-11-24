@@ -38,6 +38,7 @@ About me
   <div aling="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=#8a2be2" alt="kaustav202's top languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=riohp&show_icons=true&theme=radical" alt="riohp's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riohp&theme=dark&langs_count=5&hide=html,css" height="150" alt="coding time graph"/>
   </div>
 <br/>
 
