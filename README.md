@@ -35,11 +35,11 @@ About me
 <br/>
 <br/>
 
-  <div aling="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riohp&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=#8a2be2" alt="riohp's top languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=riohp&show_icons=true&theme=radical" alt="riohp's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riohpdev&theme=dark&langs_count=5&hide=html,css" height="150" alt="coding time graph"/>
-  </div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riohp/riohp/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riohp/riohp/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/riohp/riohp/output/snake.svg" />
+</picture>
 <br/>
 
 <br/>
