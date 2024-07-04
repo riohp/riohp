@@ -33,14 +33,13 @@ About me
 
 
 
-  <div aling="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riohp&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=#8a2be2" alt="riohp's top languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=riohp&show_icons=true&theme=radical" alt="riohp's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riohpdev&theme=dark&langs_count=5&hide=html,css" height="150" alt="coding time graph"/>
-  </div>
-<br/>
+ <div align="center">
+  <img src="https://readme-stats-two-pi.vercel.app/api?username=riohp&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&locale=en&hide_border=false&order=1&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://readme-stats-two-pi.vercel.app/api/top-langs?username=riohp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&exclude_repo=readme-stats&hide=html,css,scss,php,PHP" height="150" alt="languages graph"  />
 
-<br/>
+  
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riohp&theme=dark&langs_count=5&hide=html,css" height="150" alt="coding time graph"/>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riohpb&label=Profile%20views&color=0e75b6&style=flat" alt="riohp" /> </p>
 
