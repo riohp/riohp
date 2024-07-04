@@ -9,7 +9,7 @@ About me
 -🎓 Education  I'm currently a student of software analysis and development.<br/> 
 -💬 Ask Me About Ask me about anything, I love to answer!    <br/>
 -📫 Contact Me  Write me at [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com)<br/>
-<div align="center">
+
   <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
  
  
@@ -30,7 +30,7 @@ About me
  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"></code>
-</div>
+
 
 
  <div align="center">
