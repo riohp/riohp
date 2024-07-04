@@ -31,9 +31,7 @@ About me
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"></code>
 
-<br/>
-<br/>
-<br/>
+
 
   <div aling="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riohp&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=#8a2be2" alt="riohp's top languages" />
