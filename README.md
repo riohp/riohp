@@ -1,4 +1,4 @@
-vHi 👋, I'm River!
+Hi 👋, I'm River!
 
 
 
@@ -11,7 +11,7 @@ About me
 -📫 Contact Me  Write me at [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com)<br/>
 
   <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
- 
+ <br/>
  
  
  **MY 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
