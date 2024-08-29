@@ -1,4 +1,4 @@
-Hi 👋, I'm River!
+Hi 👋, I'm Charlie!
 About me
 <br/>
 -🌍 Location I'm based in Colombia  <br/>
