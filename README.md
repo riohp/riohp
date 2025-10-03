@@ -27,12 +27,6 @@ Got questions about the code universe? Fire away! My brain supercomputer is read
 
 </div>
 
-## 📊 Mission Logs
-
-<div align="center">
-  <img src="https://readme-stats-two-pi.vercel.app/api?username=riohp&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&locale=en&hide_border=false&order=1&count_private=true" height="150" alt="Mission Statistics">
-  <img src="https://readme-stats-two-pi.vercel.app/api/top-langs?username=riohp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2&exclude_repo=readme-stats&hide=html,css,scss,php,PHP" height="150" alt="Most Used Languages">
-</div>
 
 ## ⏳ Time in the Code-Space Continuum
 
