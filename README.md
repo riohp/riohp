@@ -12,29 +12,34 @@ Hello there! I'm Charlie, an explorer of the vast cosmos of software development
 - **Mission Control:** Colombia 🇨🇴
 - **Intergalactic Communications:** [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com) 📡
 
-### 💬 Interstellar Transmissions
-Got questions about the code universe? Fire away! My brain supercomputer is ready to process any query. I love sharing knowledge across the galaxy!
+---
 
-## 🛠️ Technological Arsenal
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-| Programming Languages | Battle Tools |
-|:-------------------------:|:-----------------------:|
-| <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40"> <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/php.png" width="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" width="40"> <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" width="40"> |
-| Frontend | IDEs |
-| <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" width="40"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="40"> |
+### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=js,java,python,php" height="40"/>
+
+### 🧰 Tools & Databases
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,netbeans" height="40"/>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" height="40"/>
 
 </div>
 
+---
 
-## ⏳ Time in the Code-Space Continuum
+## 📈 Stats from the Code-Space Continuum
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riohpdev&theme=radical&langs_count=5&hide=html,css" height="150" alt="Coding Time">
 </div>
 
-## 🌠 Stellar Visitor Counter
+---
+
+## 👨‍🚀 Stellar Visitor Counter
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=riohpb&label=Space%20Explorers&color=blueviolet&style=flat" alt="Visitor Counter">
