@@ -1,85 +1,82 @@
-# 🚀 Welcome to Charlie's Universe! 🌌
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" height="200" alt="Hollow Knight GIF">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=1349F7&width=435&lines=%F0%9F%9A%80+Welcome+to+Charlie's+Universe!)](https://git.io/typing-svg)
 </div>
 
-## 🧙‍♂️ Code Wizard in Training
+```javascript
+const charlie = {
+  alias: "Charlie",
+  location: "Colombia",
+  role: "Software Dev",
 
-Hello there! I'm Charlie, an explorer of the vast cosmos of software development. Currently, I'm navigating through the galaxy of software analysis and development, seeking new worlds of knowledge to conquer.
+  mindset: "Break. Understand. Rebuild.",
+  focus: [
+    "Software Development",
+    "Backend Logic",
+    "Clean Code",
+    "Systems Thinking"
+    "working in monorepos"
+  ],
 
-### 🌍 Spatial Coordinates
-- **Mission Control:** Colombia 🇨🇴
-- **Intergalactic Communications:** [carloshenao0418@gmail.com](mailto:carloshenao0418@gmail.com) 📡
+ stack: {
+    languages: ["Python", "JavaScript", "Java", "PHP", "HTML", "CSS"],
 
-### 💬 Interstellar Transmissions
-Got questions about the code universe? Fire away! My brain supercomputer is ready to process any query. I love sharing knowledge across the galaxy!
+    frameworks: [
+      "React",
+      "Next.js"
+      "Bootstrap",
+      "Flask",
+      "Tailwind"
+      "FastApi"
+      "Laravel"
+    ],
 
----
+    databases: [
+      "MySQL"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman",
+      "Docker",
+      "Anaconda"
+    ],
+
+    learning: [
+      "Advanced JavaScript",
+      "Backend Architecture"
+    ]
+  }
+};
+
+  currentQuest: "Becoming a Full-Stack Engineer",
+  availability: "Open to Collaborate",
+  contact: "carloshenao0418@gmail.com"
+};
+```
+
+<br clear="left"/>
 
 ## 🛠️ Technological Arsenal
-
-<table>
-  <tr>
-    <th>🌐 Languages</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java" height="30" />
-      <img src="https://skillicons.dev/icons?i=python" height="30" />
-      <img src="https://skillicons.dev/icons?i=js" height="30" />
-      <img src="https://skillicons.dev/icons?i=php" height="30" />
-    </td>
-  </tr>
-  <tr>
-    <th>🎨 Frontend</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" height="30" />
-      <img src="https://skillicons.dev/icons?i=css" height="30" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="30" />
-      <img src="https://skillicons.dev/icons?i=react" height="30" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
-    </td>
-  </tr>
-  <tr>
-    <th>⚙️ Tools</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="30" />
-      <img src="https://skillicons.dev/icons?i=github" height="30" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="30" />
-    </td>
-  </tr>
-  <tr>
-    <th>🧠 IDEs</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode" height="30" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" height="30" />
-    </td>
-  </tr>
-</table>
-
----
-
-## ⏳ Time in the Code-Space Continuum
+## 🚧 Work in Progress
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riohpdev&theme=radical&langs_count=5&hide=html,css" height="150" alt="Coding Time">
+  <img src="https://media.tenor.com/fv9CF2BW4zcAAAAM/handy-man-cartoon.gif" width="250" />
 </div>
 
----
+<p align="center">
+  <em>Currently building this section...</em>
+</p>
 
 ## 🌠 Stellar Visitor Counter
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=riohpb&label=Space%20Explorers&color=blueviolet&style=flat" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=riohpb&label=Space%20Explorers&color=blueviolet&style=flat" />
+  <a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/riohp?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+  [![Gmail badge](https://img.shields.io/badge/carloshenao0418@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloshenao0418@gmail.com)
+
 </div>
 
----
-
-<div align="center">
-  <strong>
-    "Code is poetry written in binary language. Join my space odyssey and let's create something amazing together!"
-  </strong>
-</div>
-
----
-
-🗓️ Last update: <!--LAST_UPDATED-->2025-10-02<!--END_LAST_UPDATED-->
